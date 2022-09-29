@@ -1,0 +1,58 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "title": "ফেলুদা সমগ্র ১",
+    "author": "Satyajit Ray",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1289975099i/9602495.jpg",
+    "about": "১৯৬৫ সালের ডিসেম্বর মাসের সন্দেশ পত্রিকায় ফেলুদা সিরিজের প্রথম গল্প ফেলুদার গোয়েন্দাগিরির প্রথমভাগ প্রকাশিত হয়, যা পরের আরো দুইটি সংখ্যার মাধ্যমে শেষ হয়। ১৯৬৫ থেকে ১৯৯৭ পর্যন্ত এই সিরিজের মোট ৩৫টি সম্পূর্ণ ও চারটি অসম্পূর্ণ গল্প ও উপন্যাস প্রকাশিত হয়েছে।",
+    "page":"708",
+    "duration":"1400"
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+   "title": "Pather Panchali",
+    "author": "Bibhutibhushan Bandyopadhyay",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPw9rXmplcCGVHJSv6XhNi2dHxFc5EezZjdw&usqp=CAU",
+    "about": "Pather Panchali deals with the life of the Roy family, consisting of Harihar, Sarbajaya, Apu and Durga, both in their ancestral village Nishchindipur in rural Bengal and later when they move to Varanasi in search of a better life, as well as the anguish and loss they face during their travels",
+    "page":"316",
+    "duration":"700"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "title": "হাজার বছর ধরে",
+    "author": "Zahir Raihan",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440958670i/26194271.jpg",
+    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas obcaecati commodi quia, optio veniam repellendus fuga ipsa error quae eaque!",
+    "page":"64",
+    "duration":"120"
+    
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "title": "পদ্মানদীর মাঝি",
+    "author": "Manik Bandopadhyay",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364162285i/17673148.jpg",
+    "about": "আধুনিক বাংলা উপন্যাসের বিশাল আঙ্গিনায় নদীজীবী মানুষদের নিয়ে রচিত প্রথম উপন্যাস পদ্মা নদীর মাঝি। ১৯৩৬ সালে এটি প্রকাশিত হয়। মানিক বন্দ্যোপাধ্যায়ের গ্রন্থসমূহের মধ্যে এটিই সর্বাধিক অনূদিত গ্রন্থ। উপন্যাসটিতে লেখক জেলে-জীবন ও জল-জীবন অঙ্কনে এবং চরিত্রচিত্রণে অপূর্ব মুন্সিয়ানার পরিচয় রেখেছেন।",
+    "page":"174 ",
+    "duration":"350"
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "title": "কবর",
+    "author": "Munier Choudhury",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362762164i/17564819.jpg",
+    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas obcaecati commodi quia, optio veniam repellendus fuga ipsa error quae eaque!",
+    "page":"64",
+    "duration":"120"
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "title": "লালসালু",
+    "author": "Syed Waliullah",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361227360i/17393040.jpg",
+    "about": "লালসালু সৈয়দ ওয়ালিউল্লাহ রচিত একটি উপন্যাস । উপন্যাসটি প্রথম প্রকাশিত হয় ১৯৪৮ সালে, দ্বিতীয় প্রকাশকাল ১৯৬০। এর পটভূমি ১৯৪০ কিংবা ১৯৫০ দশকের বাংলাদেশের গ্রামসমাজ হলেও এর প্রভাব বা বিস্তার কালোত্তীর্ণ । মূলত গ্রামীণ সমাজের সাধারণ মানুষের সরলতাকে কেন্দ্র করে ধর্মকে ব্যবসার উপাদানরূপে ব্যবহারের একটি নগ্ন চিত্র উপন্যাসটির মূল বিষয়। উপন্যাসটির রচনাকাল ১৯৪৮ সাল। এটি সৈয়দ ওয়ালিউল্লাহর প্রথম উপন্যাস। এটি পরে ইংরেজি ও ফরাসি ভাষায় অনুবাদ করা হয়",
+    "page":"110",
+    "duration":"220"
+  }
+  
+]

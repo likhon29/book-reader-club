@@ -1,0 +1,36 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 80% 20%;
+    grid-gap:10px;
+    margin: 0 30px;
+    padding-left: 20px;
+}
+.books-container{
+    background-color: aliceblue;
+}
+.book-container {
+    
+    /* background-color:slategray; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:10px;
+    margin: 50px 50px;
+  }
+  .cart-container{
+    /* position:fixed;
+    right:-20px;
+    top:0; */
+    padding:10px;
+    /* background-color:slategray; */
+  }
+  @media screen and (max-width: 468px){
+    .main-container{
+      display:flex;
+      flex-direction: column;
+      padding-left: 0px;
+    }
+    .book-container{
+      grid-template-columns: repeat(1,1fr);
+    }
+    
+  }

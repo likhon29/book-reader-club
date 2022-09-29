@@ -1,0 +1,30 @@
+.break-time{
+    background-color: aliceblue;
+    display:flex;
+     padding:0 auto;
+    padding:30px 20px;
+    border-radius:20px ;
+}
+.break-time button{
+    background-color: white;
+    /* padding:8px; */
+    margin-right:5px;
+    border-radius:50%;
+    color: black;
+    border:none;
+    cursor: pointer;
+    height:50px;
+    width:50px;
+}
+.break-time button:hover{
+    color:white;
+    background-color:blueviolet
+}
+@media Screen and (min-width: 468px) {
+   .break-time{
+    padding:30px 40px;
+   }
+   .break-time button{
+    margin-right:15px;
+   }
+}

@@ -1,0 +1,24 @@
+/* /* .time-count{
+    display:flex;
+    padding:20px;
+    justify-content:space-between;
+    margin:20px 5px; */
+.exercise-time,
+.break-count {
+  display: flex;
+  padding: 20px 10px;
+  justify-content: space-between;
+  margin: 20px 5px;
+  background-color: aliceblue;
+  border-radius: 10px;
+}
+.btn-activity {
+  background-color: rgb(46, 46, 193);
+  padding: 20px 10px;
+  width: 100%;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 17px;
+  cursor: pointer;
+}
