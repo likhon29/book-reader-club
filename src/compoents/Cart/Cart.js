@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 const Cart = (props) => {
   
   const { cart,time } = props;
-  const notify = () => toast("YOUR ACTIVITY IS COMPLETE!");
+  const notify = () => toast("Wow Activity Done with Time!");
 
 
   let total = 0;
@@ -36,6 +36,7 @@ const Cart = (props) => {
       </div>
       <br />
       <button onClick={notify}  className="btn-activity">Activity Completed</button>
+      <ToastContainer />
     </div>
   );
 };
