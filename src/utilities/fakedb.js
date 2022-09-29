@@ -19,7 +19,23 @@ const addToDb = id =>{
     }
     localStorage.setItem('shopping-cart', JSON.stringify(shoppingCart));
 }
+const addTimeTodb = (time) => {
+    let newTime;
+    const storedTime = localStorage.getItem('break-time');
 
+    if(storedTime){
+        newTime= JSON.parse(storedTime);
+    }
+    localStorage.setItem('shopping-cart', JSON.stringify(newTime));
+}
+const getStoredTime = () => {
+    let breakTime;
+    const storedTime = localStorage.getItem('break-time');
+    if(storedTime){
+        breakTime= JSON.parse(storedTime);
+    }
+    return breakTime;
+}
 const getStoredCart = () =>{
     let shoppingCart = {};
 
