@@ -39,8 +39,8 @@ h4,p{
 .location{
     display:flex;
 }
-@media Screen and (min-width: 468px) {
-    .profile-name{
+@media only screen and (max-width: 600px) {
+        .profile-name{
         text-align:center;
     }
     .location p{

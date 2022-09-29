@@ -20,9 +20,9 @@
     color:white;
     background-color:blueviolet
 }
-@media Screen and (min-width: 468px) {
+@media only screen and (max-width: 600px) {
    .break-time{
-    padding:30px 40px;
+    padding:30px 20px;
    }
    .break-time button{
     margin-right:15px;
