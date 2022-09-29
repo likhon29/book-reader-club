@@ -21,16 +21,16 @@ const Profile = () => {
             </div>
             <div className="additional-info">
                 <div className="info">
-                <p>75kg</p>
+                <p>60kg</p>
                 <p>Weight</p>
                 </div>
                 <div className="info">
-                <p>75kg</p>
-                <p>Weight</p>
+                <p>6.5foot</p>
+                <p>Height</p>
                 </div>
                 <div className="info">
-                <p>75kg</p>
-                <p>Weight</p>
+                <p>22yrs</p>
+                <p>Age</p>
                 </div>
             </div>
         </div>
