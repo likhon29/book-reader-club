@@ -9,13 +9,13 @@ const Cart = (props) => {
   let total = 0;
 
   let quantity = 0;
-  for (const product of cart) {
-    console.log(product);
-    quantity = quantity + product.quantity;
+  for (const book of cart) {
+    
+    quantity = quantity + book.quantity;
     //   console.log(quantity);
     //   console.log(total);
-    //   let time = product.quantity + product.duration
-    total = total + product.duration * product.quantity;
+    //   let time = book.quantity + book.duration
+    total = total + book.duration * book.quantity;
   }
 
   return (
@@ -24,11 +24,11 @@ const Cart = (props) => {
       <div className="time-count">
         <div className="exercise-time">
           <p>Exercise time </p>
-          <p>{total} seconds</p>
+          <p>{total} Minutes</p>
         </div>
         <div className="break-count">
           <p>Break time </p>
-          <p>{time} seconds</p>
+          <p>{time} Minutes</p>
         </div>
       </div>
       <br />

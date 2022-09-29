@@ -13,7 +13,7 @@ const Main = () => {
   const [books, setBooks] = useState([]);
   const [cart, setCart] = useState([]);
   const [time, setTime] = useState(0);
-  
+
   useEffect(() => {
     fetch("books.json")
       .then((res) => res.json())
@@ -34,11 +34,11 @@ const Main = () => {
     }
     setCart(savedCart);
   }, [books]);
+
+  // useEffect(() => {
     
-  useEffect(() => {
-    localStorage.setItem('break-time', time);
-  }, [time]);
-    
+  // },[]);
+
   const handleAddToCart = (selectedProduct) => {
     let newCart = [];
     const exists = cart.find((product) => product.id === selectedProduct.id);
@@ -56,7 +56,12 @@ const Main = () => {
   };
 
   const handleBreakTime = (breakTime) => {
-    setTime(breakTime);
+    
+     
+    localStorage.setItem("break-time", breakTime);
+    let getTime = localStorage.getItem("break-time");
+    setTime(getTime);
+    
   };
   return (
     <div className="main-container">
