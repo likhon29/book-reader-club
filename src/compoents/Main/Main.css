@@ -30,8 +30,12 @@
       flex-direction: column;
       padding-left: 0px;
     }
+    .books-container{
+      margin:0;;
+    }
     .book-container{
       grid-template-columns: repeat(1,1fr);
+      padding-left:0;
     }
     
   }
